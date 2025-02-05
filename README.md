@@ -1,27 +1,25 @@
-**Chat Application - Lab Test 1**
+# 🗨️ Real-Time Chat Application  
 
-📌 Project Overview
+This is a **real-time chat application** built with **Node.js, Express, Socket.io, and MongoDB**.  
+It allows users to **sign up, log in, join chat rooms, send messages, leave rooms, and see typing indicators**.  
 
-This is a real-time chat application built using Node.js, Express, Socket.io, and MongoDB. The app allows users to:
+## 🚀 Features  
+- **User Authentication** – Sign up and log in securely.  
+- **Real-time Messaging** – Messages update instantly using **Socket.io**.  
+- **Room-based Chat** – Users can join and leave chat rooms dynamically.  
+- **Message Storage** – Chats are saved in **MongoDB**.  
+- **Typing Indicator** – See when someone is typing.  
+- **Private Messaging** – Send direct messages to other users.  
+- **Logout Functionality** – Securely log out when done chatting.  
 
-Sign Up & Log In securely
+## 🛠️ Tech Stack  
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose, Socket.io  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery  
+- **Database**: MongoDB (managed with Mongoose)  
 
-Join predefined chat rooms (DevOps, Cloud, Sports, NodeJS)
+## 📦 Installation & Setup  
 
-Send & receive real-time messages
-
-See who's typing in the chat
-
-Leave rooms dynamically
-
-Store chat history in MongoDB
-
-🚀 Technologies Used
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: Node.js, Express.js
-
-Real-Time Communication: Socket.io
-
-Database: MongoDB (MongoDB Compass for local database management)
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/chat-app.git
+cd chat-app
