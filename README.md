@@ -17,9 +17,3 @@ It allows users to **sign up, log in, join chat rooms, send messages, leave room
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery  
 - **Database**: MongoDB (managed with Mongoose)  
 
-## 📦 Installation & Setup  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
