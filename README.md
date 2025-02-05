@@ -1,4 +1,4 @@
-Chat Application - Lab Test 1
+**Chat Application - Lab Test 1**
 
 📌 Project Overview
 
